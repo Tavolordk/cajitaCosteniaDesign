@@ -6,6 +6,9 @@
 body {
   overflow-x: hidden;
 }
+.text-justify {
+  text-align: justify;
+}
 .nav-part-1 {
   background-color: #3fa9f5;
   height: 34px;
@@ -33,4 +36,44 @@ body {
 .second-information {
   height: 264px;
   background: #99be3c;
+}
+.bg-fiusha {
+  width: 312px;
+  height: 762px;
+  background: #d4145a;
+}
+.bg-amarillo {
+  width: 312px;
+  height: 762px;
+  background: #e6ac2a;
+}
+.bg-azul {
+  width: 312px;
+  height: 762px;
+  background: #3fa9f5;
+}
+.bg-verde {
+  width: 312px;
+  height: 762px;
+  background: #99be3c;
+}
+.bg-rosa {
+  width: 1440px;
+  height: auto;
+  background: #ebbcbc;
+}
+.bg-footer {
+  width: 1440px;
+  height: 418px;
+  background: #99be3c;
+}
+.img-carta {
+  width: 252px;
+  height: 378px;
+}
+.btn-gris {
+  width: 396px;
+  height: 92px;
+  background: #ababcb;
+  border-radius: 10px;
 }
