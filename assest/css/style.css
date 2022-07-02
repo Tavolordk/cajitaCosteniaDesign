@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+}
+body {
+  overflow-x: hidden;
+}
+.nav-part-1 {
+  background-color: #3fa9f5;
+  height: 34px;
+}
+.nav-part-2 {
+  background-color: #cdfff6;
+  height: 82px;
+}
+.costenia-img {
+  width: 70px;
+  height: 72px;
+}
+.car-img {
+  width: 154px;
+  height: 142px;
+}
+.zindex-fixed {
+  position: absolute;
+  z-index: 100;
+}
+.general-information {
+  height: 172px;
+  background: #e6ac2a;
+}
+.second-information {
+  height: 264px;
+  background: #99be3c;
+}
