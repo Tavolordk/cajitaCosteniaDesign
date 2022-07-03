@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&display=swap");
 * {
   padding: 0;
   margin: 0 auto;
@@ -20,6 +21,31 @@ body {
 .nav-part-2 {
   background-color: #cdfff6;
   height: auto;
+}
+.letrero {
+  position: absolute;
+  width: 261px;
+  height: 30px;
+  background: #ffe70b;
+  border-radius: 0px 65.5px;
+  left: 26px;
+  top: 4px;
+}
+.barcode {
+  position: absolute;
+  top: 6px;
+  font-family: "Libre Barcode 39 Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: #d4145a;
+}
+.social-networks {
+  position: absolute;
+  width: 144px;
+  left: 75%;
+  top: 1%;
 }
 .costenia-img {
   width: 70px;
